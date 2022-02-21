@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+.logo{
+    margin-left: 10rem;
+}
+
+.chai-king{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    font-size: 3rem;
+    /* padding-left: 12rem; */
+    /* position:absolute; */
+    padding-top: 2rem;
+    justify-content: end;
+    font-family: Questrial;
+}
+.chai-king-image
+{
+    display: flex;
+    justify-content: center;
+    height:auto;
+  
+   
+}
+.fire
+{
+   
+     text-align: right;
+    /* align-items: right; */
+    /* align-content: right; */ 
+   /* text-justify: right; */
+   /* display: flex; */
+    /* justify-content: center; */
+    font-size: 18px;
+    /* margin: 23px;
+    padding: 83px; */
+    color: rgb(119, 119, 119);  
+    margin-bottom: 3rem;
+    /* padding-top : 18rem; */
+   
+}
+.fire-t{
+    text-align: right;
+   justify-content: end;
+   align-content:center;
+   font-family: Questrial;
+   font-size: 1.80rem;
+   font-stretch:ultra-expanded  ; 
+}
+.write{
+    font-size: 2.50rem;
+    
+}
+
+
+.chai-king-text
+{   
+        /* font-weight: 400;   */
+        /* text-align: center; */
+        /* display: flex; */
+        /* margin-top: 2rem; */
+    align-content:left;
+    flex-wrap: wrap;
+    font-family: "Questrial";
+    font-size: 2rem;
+    justify-content: end;   
+    /* font-family: Questrial; */
+  
+
+}
+.myDiv {
+    font-family: Abril Fatface;
+    background-color: rgb(69,127,76);  
+    background-image: url(./bac.jpeg);
+    text-align: center;
+    height: 20rem;
+    align-content: center;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   color: rgb(250, 240, 240);
+  font-family:Questrial ;
+}
+.banner-heading{
+    color: rgb(250, 240, 240);
+    font-size: 80px; 
+    font-family: 'Abril Fatface';
+    font-family: "Questrial";
+
+}
+.banner-text{
+    font-size: 1.50rem;
+    font-family: "Questrial";
+   
+}
+
+.bg-dark {
+    font-size: 30px !important;
+    margin-top: 80px;
+}
+ .tab {
+        display: inline-block;
+        margin-left: 50px;
+    }
+    .address-link{
+        justify-content: flex-start;
+        display: flex;
+
+    }
+
+.address-Brand{
+    background-color: rgb(242,242,242) ;
+    height:20rem ;
+    width: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: "Questrial";
+    padding-bottom: 1rem;
+    padding-top: -calc(50);
+}
+.address-block{
+   width: auto;
+   background-color: rgb(242,242,242) ;
+   align-items:right;
+   display: flex;
+   justify-content: center;
+   padding-bottom: 1rem;
+   padding-top: -calc(50);
+  
+
+}
+.address-t{
+    font-size: 25px;
+    color: rgb(119,119,119); 
+    font-family: "Questrial";
+}
+.address{
+    font-size: 20px;
+    color: rgb(119, 119, 119);  
+    font-family: "Questrial";
+
+}
+
+.address-r{
+    font-size: 20px;
+    color: rgb(119, 119, 119);  
+    margin-left: 15rem;
+    font-family: "Questrial";
+
+}
+.upper{
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items:center;
+    font-family: "Questrial";
+  
+   
+}
+.upper-text{
+    font-size: 2.50rem;
+    color: #595959;
+   font-family: "Questrial";
+   font-weight: 900;
+
+}
